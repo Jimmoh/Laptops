@@ -1,4 +1,4 @@
-# This Project focus on answering the following set of Questions! They are in two phases.
+# This Project focus on answering the following set of Questions given data set.
 
 #PHASE 1
 
