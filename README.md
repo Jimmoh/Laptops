@@ -1,4 +1,4 @@
-# "Data Analysis of Laptop Specifications: Exploring a dataset of laptops to uncover insights about brands, performance, and pricing. Utilized Python and pandas for data manipulation and visualization, uncovering correlations, price differentials, and trends in the laptop market."
+# Data Analysis of Laptop Specifications: Exploring a dataset of laptops to uncover insights about brands, performance, and pricing. Utilized Python and pandas for data manipulation and visualization, uncovering correlations, price differentials, and trends in the laptop market.
 
 #PHASE 1
 
